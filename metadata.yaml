@@ -1,0 +1,29 @@
+_repo: The-Ethics-of-Co-peration_29508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tufts, James Hayden
+    alias: Tufts, James H. (James Hayden)
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '33955'
+    url: http://www.gutenberg.org/2009/agents/33955
+description: ''
+gutenberg_issued: '2009-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29508'
+  lccn: '18022092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social ethics'
+- !lcc 'HM'
+- !lcsh 'Cooperation'
+title: The Ethics of Coöperation
+url: http://www.gutenberg.org/ebooks/29508
